@@ -13,6 +13,8 @@ package b_diy;
  *  Pet's methods.
  *  
  *  The Object Class must contain:
+ *     - A block comment explaining the purpose of the class.  What does is it supposed
+ *         to hold or represent.
  *     - Minimum of 3 instance variables
  *     - 2 constructors, one that's default and 1 that's parameterized.
  *     - You need a getter and setting method for each instance variable.
